@@ -1,0 +1,23 @@
+# asılılıqlar
+node_modules/
+package-lock.json
+
+# sistem faylları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# redaktor
+.vscode/
+.idea/
+*.swp
+
+# ehtiyat nüsxələr
+*.bak
+*.backup
+*.tar.gz
+*.zip
+
+# müvəqqəti
+tmp/
+*.log
